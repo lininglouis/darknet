@@ -1,5 +1,5 @@
 This is repository from Alexey branch. Adding test dir functions for massive detection <br>
-**the current commands for darknet testing a single image is **<br>
+**the current commands for darknet testing a single image is**<br>
 ```
 darknet.exe detector test _data _cfg _weights images.JPEG
 ```
