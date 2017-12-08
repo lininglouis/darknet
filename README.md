@@ -9,3 +9,4 @@ darknet.exe detector test _data _cfg _weights images.JPEG
 darknet.exe detector test_dir _data _cfg _weights input_dir  output_dir   detecion_txt_path
 ```
  
+d
